@@ -1,1 +1,1 @@
-# Simple-Podcast-Website
+# Simple Podcast Website
